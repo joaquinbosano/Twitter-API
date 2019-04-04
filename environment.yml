@@ -6,6 +6,7 @@ channels:
 dependencies:
   - numpy
   - psutil
+  - tweepy
   - toolz
   - matplotlib
   - dill
